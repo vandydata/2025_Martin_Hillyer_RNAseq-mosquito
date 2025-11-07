@@ -1,6 +1,8 @@
 # Manuscript inputs and code for manuscript figures
 
-Warmer temperature accelerates senescence by modifying the aging-dependent changes in the mosquito transcriptome, altering immunity, metabolism, and DNA repair. Lindsay E. Martin, Jordyn S. Barr, Jean-Philippe Cartailler, Shristi Shrestha, Tania Y. Estévez-Lao, Julián F. Hillyer. bioRxiv 2025.10.27.684792; doi: https://doi.org/10.1101/2025.10.27.684792 
+Warmer temperature accelerates senescence by modifying the aging-dependent changes in the mosquito transcriptome, altering immunity, metabolism, and DNA repair
+Lindsay E. Martin, Jordyn S. Barr, Jean-Philippe Cartailler, Shristi Shrestha, Tania Y. Estévez-Lao, Julián F. Hillyer
+bioRxiv 2025.10.27.684792; doi: https://doi.org/10.1101/2025.10.27.684792 
 
 ## Requirements
 
