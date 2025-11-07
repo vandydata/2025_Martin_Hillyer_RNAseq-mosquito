@@ -16,7 +16,7 @@ R packages:
 ## Data
 
 Input files are in `data/`:
-- `077-For_PCA.Rdata` - DESeq2 object for PCA analysis
+- `077-For_PCA.Rdata` (multipart, use 7zip to unpack) - DESeq2 object for PCA analysis
 - `103-interaction_analysis_HKEC.RData` / `.csv` - Interaction analysis for HKEC treatment
 - `107-interaction_analysis_Naive.Rdata` / `.csv` - Interaction analysis for naive samples
 - `VectorDb_*.csv` - GSEA results for various comparisons
